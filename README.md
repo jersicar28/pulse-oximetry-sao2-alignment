@@ -14,7 +14,6 @@ Final project for ENG1050: Introduction to Scientific Computing. The code aligns
   - Detects stable SpO2 plateaus, removes outliers, fits 1st- or 2nd-order calibration curves, and includes a leave-one-subject-out RMSE function.
   - **If a step fails, this file substitutes synthetic signals or R values**, so its printed outputs may not reflect real data.
 
-Results: TODO: confirm. The code prints correlation, regression and RMSE values at run time but stores no results.
 
 ## Tools
 Python, pandas, NumPy, SciPy, statsmodels, scikit-learn, Matplotlib, Google Colab.
@@ -22,7 +21,7 @@ Python, pandas, NumPy, SciPy, statsmodels, scikit-learn, Matplotlib, Google Cola
 ## Status
 Complete.
 
-**Data:** not included. The code expects clinical tables (`patient.csv`, `encounter.csv`, `bloodgas.csv`, `pulseoximeter.csv`, `spectrophotometer.csv`). Dataset source and terms of use: TODO: confirm.
+**Data:** not included. The code expects clinical tables (`patient.csv`, `encounter.csv`, `bloodgas.csv`, `pulseoximeter.csv`, `spectrophotometer.csv`). Dataset source and terms of use: 
 
 **Paths:** the Google Drive path was replaced with the placeholder `/path/to/data/`.
 
