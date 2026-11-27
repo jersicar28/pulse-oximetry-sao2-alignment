@@ -21,7 +21,7 @@ Python, pandas, NumPy, SciPy, statsmodels, scikit-learn, Matplotlib, Google Cola
 ## Status
 Complete.
 
-**Data:** not included. The code expects clinical tables (`patient.csv`, `encounter.csv`, `bloodgas.csv`, `pulseoximeter.csv`, `spectrophotometer.csv`). Dataset source and terms of use: 
+**Data:** not included. The code expects clinical tables (`patient.csv`, `encounter.csv`, `bloodgas.csv`, `pulseoximeter.csv`, `spectrophotometer.csv`). Dataset source and terms of use: https://www.nature.com/articles/s41597-025-04870-8 
 
 **Paths:** the Google Drive path was replaced with the placeholder `/path/to/data/`.
 
